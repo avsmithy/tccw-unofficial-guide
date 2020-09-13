@@ -1,4 +1,9 @@
-baseURL = "/"
+baseURL = "https://avsmithy.github.io/tccw-unofficial-guide/"
 languageCode = "en-us"
 title = "TCCW Unofficial Guide"
-theme = "hugo-whisper-theme"
+theme = "book"
+publishDir = "docs"
+
+# Book Theme
+googleAnalytics = "UA-177946068-1"
+enableGitInfo = true
