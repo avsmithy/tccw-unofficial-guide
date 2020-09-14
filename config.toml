@@ -1,0 +1,7 @@
+baseURL = "https://avsmithy.github.io/tccw-unofficial-guide/"
+languageCode = "en-us"
+title = "TCCW Unofficial Guide"
+publishDir = "docs"
+theme = "book"
+googleAnalytics = "UA-177946068-1"
+enableGitInfo = true
