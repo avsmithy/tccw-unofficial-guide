@@ -5,3 +5,8 @@ publishDir = "docs"
 theme = "book"
 googleAnalytics = "UA-177946068-1"
 enableGitInfo = true
+
+[[menu.after]]
+  name = "Edit on GitHub"
+  url = "https://github.com/avsmithy/tccw-unofficial-guide"
+  weight = 999
